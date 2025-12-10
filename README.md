@@ -1,3 +1,11 @@
+## Key files for review
+
+| File | Description |
+|------|-------------|
+| [environment_setup.md](docs/environment_setup.md) | Instructions for environment setup |
+| [Reproducible_Notebook.ipynb](Reproducible_Notebook.ipynb) | Main reproducible workflow notebook |
+| [Immigrant_Stereotype_Adaptation.ipynb](Immigrant_Stereotype_Adaptation.ipynb) | Core analysis and model adaptation notebook |
+
 
 # HEARTS-Text-Stereotype-Detection
 
